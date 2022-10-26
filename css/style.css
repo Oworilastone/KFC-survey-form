@@ -1,0 +1,39 @@
+
+body{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#my-form {
+    background-color: black;
+    color: white;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 3rem;
+}
+
+.sections {
+    width: 80%;
+    margin: auto;
+    padding-top: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+#submit {
+    padding: 0.7rem;
+    color: white;
+    background-color: orange;
+}
+
+#submit:hover{
+    background-color: darkgoldenrod;
+}
+
+.topBrand{
+    display: flex;
+    flex-direction: row;
+}
+.brandHeading{
+    padding-left: 25px;
+}
